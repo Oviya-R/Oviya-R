@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://drive.google.com/file/d/1SSXvQqR3EjRt4PH3pXXlxN8vbvfkMoy_/view?usp=drivesdk</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oviya-ravichandran-ab389b298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshalinjefita" height="30" width="40" /></a>
 <a href="https://leetcode.com/OviyaRavichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshalin" height="30" width="40" /></a>
