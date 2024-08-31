@@ -10,6 +10,6 @@ Current Focus:
 🌱 I’m currently learning Fullstack Web Development and I’m particularly excited about enhancing my skills in building responsive and user-friendly wesites using modern frameworks.
 📫 How to reach me
  Email - oviya.ravichandran2004@gmail.com
- LinkedIn - https://www.linkedin.com/in/oviya-ravichandran-ab389b298
+ LinkedIn - in/oviya-ravichandran-ab389b298
  
 
